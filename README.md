@@ -1,4 +1,1 @@
-characters
-==========
-
-Tools for manipulating characters, strings, and character sets.
+DEPRECATED - use https://github.com/onenameio/utilitybelt instead
